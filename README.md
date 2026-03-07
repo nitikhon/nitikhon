@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm nitikhon 👋
 
-<!--
-**nitikhon/nitikhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior Computer Science student at Chiang Mai University, graduating in March 2026. With
+hands-on backend development experience from my internship and personal projects, I am seeking a
+Junior level Software Engineer or Backend Developer position. I am eager to apply my skills to contribute
+to real-world projects and deliver high-quality software solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**connect**
+- [linkedin](https://linkedin.com/in/nitikhon)
+- [email](mailto:nitikhon.chantatham@example.com)
+
+---
+
+**Stack**
+
+languages
+
+![Go](https://skillicons.dev/icons?i=go)
+![Python](https://skillicons.dev/icons?i=py)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![C++](https://skillicons.dev/icons?i=cpp)
+![SQL](https://skillicons.dev/icons?i=mysql)
+
+backend
+
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Fiber](https://raw.githubusercontent.com/nitikhon/nitikhon/main/fiber-icon.svg)
+![Express](https://skillicons.dev/icons?i=express)
+![Flask](https://skillicons.dev/icons?i=flask)
+
+frontend
+
+![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+
+database & caching
+
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Redis](https://skillicons.dev/icons?i=redis)
+
+tools
+
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Linux](https://skillicons.dev/icons?i=linux)
+![OpenShift](https://skillicons.dev/icons?i=openshift)
+![Postman](https://skillicons.dev/icons?i=postman)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true&count_private=true&theme=default)
