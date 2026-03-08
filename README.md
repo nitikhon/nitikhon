@@ -7,15 +7,15 @@ to real-world projects and deliver high-quality software solutions.
 
 ---
 
-**connect**
+# Connect**
 - [linkedin](https://linkedin.com/in/nitikhon)
 - [email](mailto:nitikhon.chantatham@example.com)
 
 ---
 
-**Stack**
+# Stack
 
-languages
+**languages**
 
 ![Go](https://skillicons.dev/icons?i=go)
 ![Python](https://skillicons.dev/icons?i=py)
@@ -24,28 +24,28 @@ languages
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![SQL](https://skillicons.dev/icons?i=mysql)
 
-backend
+**backend**
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Fiber](https://raw.githubusercontent.com/nitikhon/nitikhon/main/fiber-icon.svg)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Flask](https://skillicons.dev/icons?i=flask)
 
-frontend
+**frontend**
 
 ![React](https://skillicons.dev/icons?i=react)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
 
-database & caching
+**database & caching**
 
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Redis](https://skillicons.dev/icons?i=redis)
 
-tools
+**tools**
 
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
@@ -56,4 +56,9 @@ tools
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitikhon&show_icons=true&hide_border=true&count_private=true&theme=default)
+<table>
+  <tr>
+    <td><img src="./profile/stats.svg" /></td>
+    <td><img src="./profile/top-langs.svg" /></td>
+  </tr>
+</table>
