@@ -7,7 +7,7 @@ to real-world projects and deliver high-quality software solutions.
 
 ---
 
-# Connect**
+# Connect
 - [linkedin](https://linkedin.com/in/nitikhon)
 - [email](mailto:nitikhon.chantatham@example.com)
 
