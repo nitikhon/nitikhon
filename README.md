@@ -1,7 +1,5 @@
 # Hi, I'm nitikhon 👋
 
-I develop softwares.
-
 ---
 
 # Connect
